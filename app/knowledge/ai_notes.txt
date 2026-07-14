@@ -1,0 +1,16 @@
+Retrieval-Augmented Generation (RAG):
+
+RAG is an AI architecture that combines
+information retrieval with text generation.
+
+It has two major components:
+
+1. Retriever:
+Finds relevant documents using embeddings.
+
+2. Generator:
+Uses an LLM to generate an answer
+based on retrieved context.
+
+RAG reduces hallucination because
+the model receives external knowledge.
